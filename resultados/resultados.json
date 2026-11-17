@@ -1,0 +1,615 @@
+{
+ "final": "MobileNetV2_reg_ajuste_fino",
+ "generalizacion": {
+  "CNN_base": {
+   "entrenamiento": {
+    "accuracy": 0.8501362397820164,
+    "loss": 0.42204830050468445
+   },
+   "validacion": {
+    "accuracy": 0.82,
+    "loss": 0.5291808247566223
+   },
+   "prueba": {
+    "accuracy": 0.8239564428312159,
+    "loss": 0.5330674052238464
+   },
+   "brecha_ent_val": 0.030136239782016405,
+   "brecha_ent_pru": 0.026179796950800416
+  },
+  "MobileNetV2_avance2": {
+   "entrenamiento": {
+    "accuracy": 0.9801479174776178,
+    "loss": 0.05969826132059097
+   },
+   "validacion": {
+    "accuracy": 0.9127272727272727,
+    "loss": 0.26879188418388367
+   },
+   "prueba": {
+    "accuracy": 0.9201451905626135,
+    "loss": 0.2402982860803604
+   },
+   "brecha_ent_val": 0.06742064475034504,
+   "brecha_ent_pru": 0.0600027269150043
+  },
+  "MobileNetV2_reg_congelada": {
+   "entrenamiento": {
+    "accuracy": 0.9131957960295835,
+    "loss": 0.2609691619873047
+   },
+   "validacion": {
+    "accuracy": 0.8854545454545455,
+    "loss": 0.3411155939102173
+   },
+   "prueba": {
+    "accuracy": 0.8874773139745916,
+    "loss": 0.325980007648468
+   },
+   "brecha_ent_val": 0.027741250575037957,
+   "brecha_ent_pru": 0.02571848205499183
+  },
+  "MobileNetV2_reg_ajuste_fino": {
+   "entrenamiento": {
+    "accuracy": 0.9727520435967303,
+    "loss": 0.07988420128822327
+   },
+   "validacion": {
+    "accuracy": 0.9181818181818182,
+    "loss": 0.23782892525196075
+   },
+   "prueba": {
+    "accuracy": 0.9183303085299456,
+    "loss": 0.21862488985061646
+   },
+   "brecha_ent_val": 0.05457022541491208,
+   "brecha_ent_pru": 0.054421735066784716
+  }
+ },
+ "resultados": {
+  "CNN_base": {
+   "accuracy": 0.8239564428312159,
+   "ic95": 0.031801123735863926,
+   "precision_macro": 0.8304672200936569,
+   "recall_macro": 0.8145001392369814,
+   "f1_macro": 0.8190796548084684,
+   "errores": 97,
+   "ms_por_imagen_cpu": 4.702795222536838,
+   "parametros": 391141,
+   "matriz_confusion": [
+    [
+     122,
+     3,
+     4,
+     5,
+     1
+    ],
+    [
+     6,
+     71,
+     8,
+     2,
+     8
+    ],
+    [
+     7,
+     2,
+     102,
+     1,
+     8
+    ],
+    [
+     4,
+     2,
+     4,
+     95,
+     0
+    ],
+    [
+     6,
+     2,
+     22,
+     2,
+     64
+    ]
+   ],
+   "reporte": {
+    "Diente de león": {
+     "precision": 0.8413793103448276,
+     "recall": 0.9037037037037037,
+     "f1-score": 0.8714285714285714,
+     "support": 135.0
+    },
+    "Margarita": {
+     "precision": 0.8875,
+     "recall": 0.7473684210526316,
+     "f1-score": 0.8114285714285714,
+     "support": 95.0
+    },
+    "Tulipán": {
+     "precision": 0.7285714285714285,
+     "recall": 0.85,
+     "f1-score": 0.7846153846153846,
+     "support": 120.0
+    },
+    "Girasol": {
+     "precision": 0.9047619047619048,
+     "recall": 0.9047619047619048,
+     "f1-score": 0.9047619047619048,
+     "support": 105.0
+    },
+    "Rosa": {
+     "precision": 0.7901234567901234,
+     "recall": 0.6666666666666666,
+     "f1-score": 0.7231638418079096,
+     "support": 96.0
+    },
+    "accuracy": 0.8239564428312159,
+    "macro avg": {
+     "precision": 0.8304672200936569,
+     "recall": 0.8145001392369814,
+     "f1-score": 0.8190796548084684,
+     "support": 551.0
+    },
+    "weighted avg": {
+     "precision": 0.8279113070362524,
+     "recall": 0.8239564428312159,
+     "f1-score": 0.8226971803919726,
+     "support": 551.0
+    }
+   }
+  },
+  "MobileNetV2_avance2": {
+   "accuracy": 0.9201451905626135,
+   "ic95": 0.022633879060210412,
+   "precision_macro": 0.9238364235060693,
+   "recall_macro": 0.9149637983848511,
+   "f1_macro": 0.918124669735545,
+   "errores": 44,
+   "ms_por_imagen_cpu": 5.973751878132621,
+   "parametros": 2264389,
+   "matriz_confusion": [
+    [
+     131,
+     2,
+     0,
+     2,
+     0
+    ],
+    [
+     6,
+     84,
+     1,
+     3,
+     1
+    ],
+    [
+     2,
+     0,
+     111,
+     1,
+     6
+    ],
+    [
+     0,
+     0,
+     4,
+     101,
+     0
+    ],
+    [
+     0,
+     0,
+     14,
+     2,
+     80
+    ]
+   ],
+   "reporte": {
+    "Diente de león": {
+     "precision": 0.9424460431654677,
+     "recall": 0.9703703703703703,
+     "f1-score": 0.9562043795620438,
+     "support": 135.0
+    },
+    "Margarita": {
+     "precision": 0.9767441860465116,
+     "recall": 0.8842105263157894,
+     "f1-score": 0.9281767955801105,
+     "support": 95.0
+    },
+    "Tulipán": {
+     "precision": 0.8538461538461538,
+     "recall": 0.925,
+     "f1-score": 0.888,
+     "support": 120.0
+    },
+    "Girasol": {
+     "precision": 0.926605504587156,
+     "recall": 0.9619047619047619,
+     "f1-score": 0.9439252336448598,
+     "support": 105.0
+    },
+    "Rosa": {
+     "precision": 0.9195402298850575,
+     "recall": 0.8333333333333334,
+     "f1-score": 0.8743169398907104,
+     "support": 96.0
+    },
+    "accuracy": 0.9201451905626135,
+    "macro avg": {
+     "precision": 0.9238364235060693,
+     "recall": 0.9149637983848511,
+     "f1-score": 0.918124669735545,
+     "support": 551.0
+    },
+    "weighted avg": {
+     "precision": 0.9220542504789692,
+     "recall": 0.9201451905626135,
+     "f1-score": 0.9199110028733302,
+     "support": 551.0
+    }
+   }
+  },
+  "MobileNetV2_reg_congelada": {
+   "accuracy": 0.8874773139745916,
+   "ic95": 0.026386327433652226,
+   "precision_macro": 0.8898669276334831,
+   "recall_macro": 0.8813182261208578,
+   "f1_macro": 0.8840792225619605,
+   "errores": 62,
+   "ms_por_imagen_cpu": 6.350828818097954,
+   "parametros": 2264389,
+   "matriz_confusion": [
+    [
+     128,
+     3,
+     0,
+     4,
+     0
+    ],
+    [
+     7,
+     77,
+     5,
+     6,
+     0
+    ],
+    [
+     0,
+     2,
+     107,
+     1,
+     10
+    ],
+    [
+     2,
+     1,
+     4,
+     98,
+     0
+    ],
+    [
+     0,
+     0,
+     15,
+     2,
+     79
+    ]
+   ],
+   "reporte": {
+    "Diente de león": {
+     "precision": 0.9343065693430657,
+     "recall": 0.9481481481481482,
+     "f1-score": 0.9411764705882353,
+     "support": 135.0
+    },
+    "Margarita": {
+     "precision": 0.927710843373494,
+     "recall": 0.8105263157894737,
+     "f1-score": 0.8651685393258427,
+     "support": 95.0
+    },
+    "Tulipán": {
+     "precision": 0.816793893129771,
+     "recall": 0.8916666666666667,
+     "f1-score": 0.852589641434263,
+     "support": 120.0
+    },
+    "Girasol": {
+     "precision": 0.8828828828828829,
+     "recall": 0.9333333333333333,
+     "f1-score": 0.9074074074074074,
+     "support": 105.0
+    },
+    "Rosa": {
+     "precision": 0.8876404494382022,
+     "recall": 0.8229166666666666,
+     "f1-score": 0.8540540540540541,
+     "support": 96.0
+    },
+    "accuracy": 0.8874773139745916,
+    "macro avg": {
+     "precision": 0.8898669276334831,
+     "recall": 0.8813182261208578,
+     "f1-score": 0.8840792225619605,
+     "support": 551.0
+    },
+    "weighted avg": {
+     "precision": 0.8896467695211224,
+     "recall": 0.8874773139745916,
+     "f1-score": 0.8871643533655995,
+     "support": 551.0
+    }
+   }
+  },
+  "MobileNetV2_reg_ajuste_fino": {
+   "accuracy": 0.9183303085299456,
+   "ic95": 0.022867052475414755,
+   "precision_macro": 0.9162208813231765,
+   "recall_macro": 0.9176465469228627,
+   "f1_macro": 0.9165799949035639,
+   "errores": 45,
+   "ms_por_imagen_cpu": 6.038324802627148,
+   "parametros": 2264389,
+   "matriz_confusion": [
+    [
+     128,
+     4,
+     0,
+     3,
+     0
+    ],
+    [
+     5,
+     86,
+     1,
+     3,
+     0
+    ],
+    [
+     0,
+     2,
+     104,
+     1,
+     13
+    ],
+    [
+     0,
+     0,
+     3,
+     101,
+     1
+    ],
+    [
+     0,
+     0,
+     7,
+     2,
+     87
+    ]
+   ],
+   "reporte": {
+    "Diente de león": {
+     "precision": 0.9624060150375939,
+     "recall": 0.9481481481481482,
+     "f1-score": 0.9552238805970149,
+     "support": 135.0
+    },
+    "Margarita": {
+     "precision": 0.9347826086956522,
+     "recall": 0.9052631578947369,
+     "f1-score": 0.9197860962566845,
+     "support": 95.0
+    },
+    "Tulipán": {
+     "precision": 0.9043478260869565,
+     "recall": 0.8666666666666667,
+     "f1-score": 0.8851063829787233,
+     "support": 120.0
+    },
+    "Girasol": {
+     "precision": 0.9181818181818182,
+     "recall": 0.9619047619047619,
+     "f1-score": 0.9395348837209302,
+     "support": 105.0
+    },
+    "Rosa": {
+     "precision": 0.8613861386138614,
+     "recall": 0.90625,
+     "f1-score": 0.883248730964467,
+     "support": 96.0
+    },
+    "accuracy": 0.9183303085299456,
+    "macro avg": {
+     "precision": 0.9162208813231765,
+     "recall": 0.9176465469228627,
+     "f1-score": 0.9165799949035639,
+     "support": 551.0
+    },
+    "weighted avg": {
+     "precision": 0.9189710693332458,
+     "recall": 0.9183303085299456,
+     "f1-score": 0.9183134481773417,
+     "support": 551.0
+    }
+   }
+  }
+ },
+ "mcnemar": [
+  {
+   "modelo_a": "MobileNetV2_reg_ajuste_fino",
+   "modelo_b": "CNN_base",
+   "solo_acierta_a": 65,
+   "solo_acierta_b": 13,
+   "diferencia_puntos": 9.437386569872963,
+   "p": 1.807703105408552e-09,
+   "p_bonferroni": 7.230812421634208e-09
+  },
+  {
+   "modelo_a": "MobileNetV2_reg_ajuste_fino",
+   "modelo_b": "MobileNetV2_reg_congelada",
+   "solo_acierta_a": 24,
+   "solo_acierta_b": 7,
+   "diferencia_puntos": 3.085299455535395,
+   "p": 0.003326892852783203,
+   "p_bonferroni": 0.013307571411132812
+  },
+  {
+   "modelo_a": "MobileNetV2_avance2",
+   "modelo_b": "MobileNetV2_reg_ajuste_fino",
+   "solo_acierta_a": 11,
+   "solo_acierta_b": 10,
+   "diferencia_puntos": 0.1814882032667886,
+   "p": 1.0,
+   "p_bonferroni": 1.0
+  },
+  {
+   "modelo_a": "MobileNetV2_avance2",
+   "modelo_b": "MobileNetV2_reg_congelada",
+   "solo_acierta_a": 22,
+   "solo_acierta_b": 4,
+   "diferencia_puntos": 3.266787658802184,
+   "p": 0.0005335211753845215,
+   "p_bonferroni": 0.002134084701538086
+  }
+ ],
+ "errores_final": {
+  "total": 45,
+  "confusiones": [
+   {
+    "real": "Tulipán",
+    "predicha": "Rosa",
+    "casos": 13
+   },
+   {
+    "real": "Rosa",
+    "predicha": "Tulipán",
+    "casos": 7
+   },
+   {
+    "real": "Margarita",
+    "predicha": "Diente de león",
+    "casos": 5
+   },
+   {
+    "real": "Diente de león",
+    "predicha": "Margarita",
+    "casos": 4
+   },
+   {
+    "real": "Girasol",
+    "predicha": "Tulipán",
+    "casos": 3
+   },
+   {
+    "real": "Margarita",
+    "predicha": "Girasol",
+    "casos": 3
+   },
+   {
+    "real": "Diente de león",
+    "predicha": "Girasol",
+    "casos": 3
+   },
+   {
+    "real": "Rosa",
+    "predicha": "Girasol",
+    "casos": 2
+   },
+   {
+    "real": "Tulipán",
+    "predicha": "Margarita",
+    "casos": 2
+   },
+   {
+    "real": "Girasol",
+    "predicha": "Rosa",
+    "casos": 1
+   },
+   {
+    "real": "Tulipán",
+    "predicha": "Girasol",
+    "casos": 1
+   },
+   {
+    "real": "Margarita",
+    "predicha": "Tulipán",
+    "casos": 1
+   }
+  ],
+  "recall_por_clase": {
+   "Diente de león": 0.9481481481481482,
+   "Margarita": 0.9052631578947369,
+   "Tulipán": 0.8666666666666667,
+   "Girasol": 0.9619047619047619,
+   "Rosa": 0.90625
+  },
+  "errores_por_clase_real": {
+   "Diente de león": 7,
+   "Margarita": 9,
+   "Tulipán": 16,
+   "Girasol": 4,
+   "Rosa": 9
+  },
+  "rosa_tulipan": 20
+ },
+ "literatura": [
+  {
+   "trabajo": "Toğaçar et al. (2020)",
+   "datos": "Conjunto de 5 clases de flores",
+   "clases": 5,
+   "modelo": "Características de CNN + selección + SVM",
+   "metrica": "Según autores",
+   "accuracy": 98.91
+  },
+  {
+   "trabajo": "Wang et al. (2022)",
+   "datos": "Flores (incluye TF Flowers)",
+   "clases": 5,
+   "modelo": "Selección dinámica entre 13 clasificadores MobileNet",
+   "metrica": "Prueba",
+   "accuracy": 95.5
+  },
+  {
+   "trabajo": "Mufidatuzzainiya y Faisal (2025)",
+   "datos": "Kaggle, 4.242 imágenes",
+   "clases": 5,
+   "modelo": "EfficientNetB3",
+   "metrica": "Validación",
+   "accuracy": 94.0
+  },
+  {
+   "trabajo": "Praskatama et al. (2024)",
+   "datos": "Kaggle, 4.317 imágenes (60/10/30)",
+   "clases": 5,
+   "modelo": "DenseNet con ajuste fino + SMOTE",
+   "metrica": "Prueba",
+   "accuracy": 93.92
+  },
+  {
+   "trabajo": "Praskatama et al. (2024)",
+   "datos": "Kaggle, 4.317 imágenes (60/10/30)",
+   "clases": 5,
+   "modelo": "MobileNet con ajuste fino + SMOTE",
+   "metrica": "Prueba",
+   "accuracy": 88.34
+  },
+  {
+   "trabajo": "Oralbekova et al. (2026)",
+   "datos": "5 clases + 2 propias, 4.713 imágenes",
+   "clases": 7,
+   "modelo": "MobileNetV2",
+   "metrica": "Prueba",
+   "accuracy": 87.1
+  },
+  {
+   "trabajo": "Praskatama et al. (2024)",
+   "datos": "Kaggle, 4.317 imágenes (60/10/30)",
+   "clases": 5,
+   "modelo": "CNN desde cero",
+   "metrica": "Prueba",
+   "accuracy": 74.61
+  }
+ ]
+}

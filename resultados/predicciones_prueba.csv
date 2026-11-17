@@ -1,0 +1,552 @@
+indice_en_prueba,clase_real,pred_CNN_base,pred_MobileNetV2_avance2,pred_MobileNetV2_reg_congelada,pred_MobileNetV2_reg_ajuste_fino
+0,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+1,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+2,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+3,Rosa,Rosa,Rosa,Tulipán,Rosa
+4,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+5,Girasol,Girasol,Girasol,Girasol,Girasol
+6,Girasol,Girasol,Girasol,Girasol,Girasol
+7,Tulipán,Margarita,Tulipán,Tulipán,Tulipán
+8,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+9,Margarita,Girasol,Diente de león,Diente de león,Diente de león
+10,Girasol,Girasol,Tulipán,Tulipán,Tulipán
+11,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+12,Margarita,Diente de león,Margarita,Margarita,Margarita
+13,Margarita,Tulipán,Tulipán,Tulipán,Tulipán
+14,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+15,Girasol,Girasol,Girasol,Girasol,Girasol
+16,Rosa,Tulipán,Rosa,Rosa,Rosa
+17,Rosa,Rosa,Rosa,Rosa,Rosa
+18,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+19,Rosa,Rosa,Rosa,Rosa,Rosa
+20,Girasol,Tulipán,Tulipán,Tulipán,Tulipán
+21,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+22,Tulipán,Tulipán,Rosa,Rosa,Rosa
+23,Rosa,Tulipán,Rosa,Tulipán,Rosa
+24,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+25,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+26,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+27,Diente de león,Tulipán,Margarita,Margarita,Margarita
+28,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+29,Girasol,Girasol,Girasol,Girasol,Girasol
+30,Margarita,Rosa,Margarita,Margarita,Margarita
+31,Girasol,Girasol,Girasol,Girasol,Girasol
+32,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+33,Margarita,Margarita,Margarita,Margarita,Margarita
+34,Girasol,Girasol,Girasol,Girasol,Girasol
+35,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+36,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+37,Rosa,Rosa,Rosa,Rosa,Rosa
+38,Rosa,Rosa,Rosa,Rosa,Rosa
+39,Girasol,Girasol,Girasol,Girasol,Girasol
+40,Margarita,Tulipán,Diente de león,Diente de león,Diente de león
+41,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+42,Margarita,Margarita,Margarita,Margarita,Margarita
+43,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+44,Rosa,Rosa,Tulipán,Tulipán,Tulipán
+45,Girasol,Girasol,Girasol,Girasol,Girasol
+46,Girasol,Girasol,Girasol,Girasol,Girasol
+47,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+48,Girasol,Girasol,Girasol,Girasol,Girasol
+49,Rosa,Rosa,Rosa,Rosa,Rosa
+50,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+51,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+52,Margarita,Tulipán,Diente de león,Diente de león,Diente de león
+53,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+54,Rosa,Rosa,Rosa,Rosa,Rosa
+55,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+56,Diente de león,Diente de león,Diente de león,Girasol,Diente de león
+57,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+58,Diente de león,Girasol,Diente de león,Diente de león,Diente de león
+59,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+60,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+61,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+62,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+63,Rosa,Rosa,Rosa,Rosa,Rosa
+64,Girasol,Girasol,Girasol,Girasol,Girasol
+65,Rosa,Rosa,Rosa,Rosa,Rosa
+66,Margarita,Margarita,Margarita,Margarita,Margarita
+67,Margarita,Margarita,Margarita,Margarita,Margarita
+68,Girasol,Girasol,Girasol,Girasol,Girasol
+69,Girasol,Girasol,Girasol,Girasol,Girasol
+70,Margarita,Margarita,Margarita,Margarita,Margarita
+71,Margarita,Margarita,Margarita,Margarita,Margarita
+72,Margarita,Tulipán,Margarita,Margarita,Margarita
+73,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+74,Diente de león,Rosa,Diente de león,Diente de león,Diente de león
+75,Girasol,Tulipán,Tulipán,Tulipán,Rosa
+76,Margarita,Margarita,Margarita,Margarita,Margarita
+77,Margarita,Girasol,Girasol,Girasol,Girasol
+78,Margarita,Margarita,Margarita,Margarita,Margarita
+79,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+80,Girasol,Girasol,Girasol,Girasol,Girasol
+81,Rosa,Rosa,Rosa,Rosa,Rosa
+82,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+83,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+84,Girasol,Girasol,Girasol,Girasol,Girasol
+85,Girasol,Girasol,Girasol,Girasol,Girasol
+86,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+87,Rosa,Rosa,Rosa,Rosa,Rosa
+88,Margarita,Tulipán,Margarita,Margarita,Margarita
+89,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+90,Tulipán,Rosa,Rosa,Rosa,Rosa
+91,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+92,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+93,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+94,Girasol,Girasol,Girasol,Girasol,Girasol
+95,Tulipán,Diente de león,Tulipán,Tulipán,Tulipán
+96,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+97,Girasol,Girasol,Girasol,Girasol,Girasol
+98,Margarita,Margarita,Margarita,Margarita,Margarita
+99,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+100,Margarita,Margarita,Margarita,Margarita,Margarita
+101,Tulipán,Diente de león,Tulipán,Tulipán,Tulipán
+102,Rosa,Rosa,Rosa,Rosa,Rosa
+103,Girasol,Girasol,Girasol,Girasol,Girasol
+104,Rosa,Diente de león,Tulipán,Tulipán,Tulipán
+105,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+106,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+107,Rosa,Tulipán,Rosa,Rosa,Rosa
+108,Girasol,Margarita,Girasol,Girasol,Girasol
+109,Rosa,Diente de león,Rosa,Rosa,Rosa
+110,Girasol,Girasol,Girasol,Girasol,Girasol
+111,Rosa,Rosa,Rosa,Rosa,Rosa
+112,Margarita,Margarita,Margarita,Margarita,Margarita
+113,Girasol,Girasol,Girasol,Girasol,Girasol
+114,Margarita,Margarita,Margarita,Margarita,Margarita
+115,Rosa,Rosa,Rosa,Rosa,Rosa
+116,Girasol,Diente de león,Girasol,Girasol,Girasol
+117,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+118,Girasol,Girasol,Girasol,Girasol,Girasol
+119,Margarita,Rosa,Margarita,Margarita,Margarita
+120,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+121,Rosa,Rosa,Rosa,Rosa,Rosa
+122,Margarita,Margarita,Margarita,Margarita,Margarita
+123,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+124,Girasol,Girasol,Girasol,Girasol,Girasol
+125,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+126,Girasol,Girasol,Girasol,Girasol,Girasol
+127,Rosa,Rosa,Rosa,Rosa,Rosa
+128,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+129,Margarita,Rosa,Girasol,Girasol,Girasol
+130,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+131,Girasol,Girasol,Girasol,Girasol,Girasol
+132,Girasol,Girasol,Girasol,Girasol,Girasol
+133,Rosa,Rosa,Rosa,Rosa,Rosa
+134,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+135,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+136,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+137,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+138,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+139,Margarita,Rosa,Margarita,Margarita,Margarita
+140,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+141,Margarita,Margarita,Margarita,Margarita,Margarita
+142,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+143,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+144,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+145,Girasol,Girasol,Girasol,Girasol,Girasol
+146,Rosa,Rosa,Rosa,Rosa,Rosa
+147,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+148,Girasol,Girasol,Girasol,Girasol,Girasol
+149,Girasol,Girasol,Girasol,Girasol,Girasol
+150,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+151,Girasol,Girasol,Girasol,Girasol,Girasol
+152,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+153,Margarita,Margarita,Margarita,Margarita,Margarita
+154,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+155,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+156,Margarita,Margarita,Margarita,Margarita,Margarita
+157,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+158,Rosa,Rosa,Rosa,Rosa,Rosa
+159,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+160,Rosa,Rosa,Rosa,Rosa,Rosa
+161,Girasol,Diente de león,Girasol,Diente de león,Girasol
+162,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+163,Girasol,Diente de león,Girasol,Girasol,Girasol
+164,Girasol,Girasol,Girasol,Girasol,Girasol
+165,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+166,Diente de león,Diente de león,Margarita,Margarita,Margarita
+167,Margarita,Margarita,Margarita,Margarita,Margarita
+168,Girasol,Girasol,Girasol,Girasol,Girasol
+169,Rosa,Rosa,Rosa,Rosa,Rosa
+170,Tulipán,Rosa,Tulipán,Tulipán,Rosa
+171,Margarita,Margarita,Margarita,Margarita,Margarita
+172,Rosa,Tulipán,Tulipán,Tulipán,Tulipán
+173,Margarita,Margarita,Margarita,Margarita,Margarita
+174,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+175,Diente de león,Girasol,Diente de león,Girasol,Diente de león
+176,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+177,Rosa,Rosa,Rosa,Rosa,Rosa
+178,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+179,Girasol,Girasol,Girasol,Girasol,Girasol
+180,Rosa,Rosa,Rosa,Rosa,Rosa
+181,Rosa,Rosa,Rosa,Rosa,Rosa
+182,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+183,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+184,Diente de león,Margarita,Diente de león,Diente de león,Diente de león
+185,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+186,Margarita,Margarita,Margarita,Margarita,Margarita
+187,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+188,Margarita,Margarita,Margarita,Margarita,Margarita
+189,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+190,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+191,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+192,Girasol,Girasol,Girasol,Girasol,Girasol
+193,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+194,Rosa,Rosa,Rosa,Rosa,Rosa
+195,Girasol,Girasol,Girasol,Girasol,Girasol
+196,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+197,Margarita,Margarita,Margarita,Margarita,Margarita
+198,Margarita,Margarita,Margarita,Margarita,Margarita
+199,Girasol,Girasol,Girasol,Girasol,Girasol
+200,Tulipán,Girasol,Diente de león,Rosa,Rosa
+201,Margarita,Margarita,Margarita,Diente de león,Margarita
+202,Rosa,Rosa,Rosa,Rosa,Rosa
+203,Margarita,Margarita,Margarita,Margarita,Margarita
+204,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+205,Girasol,Diente de león,Girasol,Girasol,Girasol
+206,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+207,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+208,Rosa,Rosa,Tulipán,Tulipán,Rosa
+209,Girasol,Girasol,Girasol,Girasol,Girasol
+210,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+211,Rosa,Rosa,Rosa,Rosa,Rosa
+212,Girasol,Girasol,Girasol,Girasol,Girasol
+213,Girasol,Girasol,Girasol,Margarita,Girasol
+214,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+215,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+216,Margarita,Margarita,Margarita,Margarita,Margarita
+217,Rosa,Diente de león,Tulipán,Tulipán,Rosa
+218,Tulipán,Tulipán,Rosa,Rosa,Rosa
+219,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+220,Rosa,Tulipán,Tulipán,Tulipán,Rosa
+221,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+222,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+223,Tulipán,Diente de león,Diente de león,Margarita,Margarita
+224,Margarita,Margarita,Margarita,Margarita,Margarita
+225,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+226,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+227,Diente de león,Tulipán,Diente de león,Diente de león,Diente de león
+228,Girasol,Girasol,Girasol,Girasol,Girasol
+229,Margarita,Margarita,Margarita,Margarita,Margarita
+230,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+231,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+232,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+233,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+234,Margarita,Margarita,Margarita,Girasol,Margarita
+235,Diente de león,Margarita,Diente de león,Margarita,Diente de león
+236,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+237,Rosa,Rosa,Rosa,Rosa,Rosa
+238,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+239,Tulipán,Margarita,Tulipán,Margarita,Margarita
+240,Tulipán,Rosa,Rosa,Rosa,Rosa
+241,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+242,Rosa,Rosa,Rosa,Rosa,Rosa
+243,Margarita,Margarita,Margarita,Margarita,Margarita
+244,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+245,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+246,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+247,Margarita,Margarita,Margarita,Margarita,Margarita
+248,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+249,Girasol,Girasol,Girasol,Girasol,Girasol
+250,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+251,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+252,Girasol,Tulipán,Girasol,Girasol,Girasol
+253,Margarita,Margarita,Margarita,Margarita,Margarita
+254,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+255,Girasol,Girasol,Girasol,Girasol,Girasol
+256,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+257,Rosa,Rosa,Rosa,Rosa,Rosa
+258,Girasol,Girasol,Girasol,Diente de león,Girasol
+259,Girasol,Girasol,Girasol,Girasol,Girasol
+260,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+261,Rosa,Tulipán,Rosa,Rosa,Rosa
+262,Diente de león,Girasol,Diente de león,Diente de león,Diente de león
+263,Margarita,Tulipán,Margarita,Margarita,Margarita
+264,Tulipán,Rosa,Tulipán,Tulipán,Rosa
+265,Margarita,Margarita,Margarita,Margarita,Margarita
+266,Rosa,Rosa,Rosa,Rosa,Rosa
+267,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+268,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+269,Rosa,Rosa,Rosa,Rosa,Rosa
+270,Rosa,Rosa,Rosa,Rosa,Rosa
+271,Rosa,Rosa,Rosa,Rosa,Rosa
+272,Girasol,Girasol,Girasol,Girasol,Girasol
+273,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+274,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+275,Girasol,Girasol,Girasol,Girasol,Girasol
+276,Girasol,Girasol,Girasol,Girasol,Girasol
+277,Girasol,Girasol,Girasol,Girasol,Girasol
+278,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+279,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+280,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+281,Diente de león,Girasol,Diente de león,Diente de león,Girasol
+282,Rosa,Rosa,Rosa,Rosa,Rosa
+283,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+284,Girasol,Girasol,Girasol,Girasol,Girasol
+285,Rosa,Rosa,Rosa,Rosa,Rosa
+286,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+287,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+288,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+289,Girasol,Girasol,Girasol,Girasol,Girasol
+290,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+291,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+292,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+293,Margarita,Margarita,Margarita,Margarita,Margarita
+294,Rosa,Rosa,Rosa,Rosa,Rosa
+295,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+296,Girasol,Girasol,Girasol,Girasol,Girasol
+297,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+298,Girasol,Girasol,Girasol,Girasol,Girasol
+299,Girasol,Girasol,Girasol,Girasol,Girasol
+300,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+301,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+302,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+303,Margarita,Margarita,Margarita,Margarita,Margarita
+304,Rosa,Tulipán,Rosa,Rosa,Rosa
+305,Margarita,Margarita,Margarita,Margarita,Margarita
+306,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+307,Margarita,Margarita,Margarita,Margarita,Margarita
+308,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+309,Tulipán,Rosa,Rosa,Rosa,Rosa
+310,Girasol,Girasol,Girasol,Girasol,Girasol
+311,Margarita,Margarita,Margarita,Margarita,Margarita
+312,Margarita,Margarita,Margarita,Margarita,Margarita
+313,Girasol,Girasol,Girasol,Girasol,Girasol
+314,Margarita,Margarita,Margarita,Margarita,Margarita
+315,Rosa,Rosa,Tulipán,Tulipán,Rosa
+316,Diente de león,Tulipán,Diente de león,Diente de león,Diente de león
+317,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+318,Girasol,Girasol,Girasol,Girasol,Girasol
+319,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+320,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+321,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+322,Rosa,Rosa,Rosa,Rosa,Rosa
+323,Margarita,Rosa,Rosa,Margarita,Margarita
+324,Margarita,Margarita,Margarita,Margarita,Margarita
+325,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+326,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+327,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+328,Rosa,Tulipán,Rosa,Rosa,Rosa
+329,Margarita,Margarita,Margarita,Margarita,Margarita
+330,Rosa,Girasol,Girasol,Girasol,Girasol
+331,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+332,Margarita,Margarita,Margarita,Margarita,Margarita
+333,Margarita,Margarita,Margarita,Margarita,Margarita
+334,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+335,Diente de león,Diente de león,Diente de león,Girasol,Girasol
+336,Rosa,Rosa,Rosa,Rosa,Rosa
+337,Girasol,Girasol,Girasol,Girasol,Girasol
+338,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+339,Girasol,Girasol,Girasol,Girasol,Girasol
+340,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+341,Rosa,Tulipán,Tulipán,Tulipán,Rosa
+342,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+343,Rosa,Rosa,Rosa,Rosa,Rosa
+344,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+345,Margarita,Margarita,Margarita,Margarita,Margarita
+346,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+347,Diente de león,Margarita,Diente de león,Diente de león,Diente de león
+348,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+349,Rosa,Tulipán,Rosa,Rosa,Rosa
+350,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+351,Rosa,Tulipán,Girasol,Girasol,Girasol
+352,Girasol,Girasol,Girasol,Girasol,Girasol
+353,Rosa,Rosa,Rosa,Rosa,Rosa
+354,Tulipán,Rosa,Tulipán,Tulipán,Tulipán
+355,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+356,Girasol,Girasol,Girasol,Girasol,Girasol
+357,Rosa,Rosa,Rosa,Rosa,Rosa
+358,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+359,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+360,Margarita,Rosa,Margarita,Margarita,Margarita
+361,Tulipán,Rosa,Tulipán,Rosa,Rosa
+362,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+363,Margarita,Diente de león,Margarita,Margarita,Margarita
+364,Girasol,Girasol,Girasol,Girasol,Girasol
+365,Margarita,Margarita,Margarita,Margarita,Margarita
+366,Rosa,Diente de león,Rosa,Rosa,Rosa
+367,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+368,Rosa,Rosa,Rosa,Rosa,Rosa
+369,Girasol,Margarita,Girasol,Girasol,Girasol
+370,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+371,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+372,Girasol,Girasol,Girasol,Girasol,Girasol
+373,Tulipán,Diente de león,Tulipán,Tulipán,Tulipán
+374,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+375,Margarita,Margarita,Margarita,Tulipán,Margarita
+376,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+377,Rosa,Rosa,Rosa,Rosa,Rosa
+378,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+379,Girasol,Girasol,Girasol,Girasol,Girasol
+380,Girasol,Girasol,Girasol,Girasol,Girasol
+381,Margarita,Rosa,Diente de león,Tulipán,Margarita
+382,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+383,Margarita,Margarita,Margarita,Margarita,Margarita
+384,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+385,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+386,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+387,Rosa,Diente de león,Rosa,Rosa,Rosa
+388,Margarita,Margarita,Margarita,Margarita,Margarita
+389,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+390,Girasol,Girasol,Girasol,Girasol,Girasol
+391,Rosa,Rosa,Rosa,Rosa,Rosa
+392,Margarita,Rosa,Margarita,Tulipán,Margarita
+393,Margarita,Margarita,Margarita,Margarita,Margarita
+394,Margarita,Diente de león,Diente de león,Diente de león,Diente de león
+395,Rosa,Tulipán,Rosa,Tulipán,Rosa
+396,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+397,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+398,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+399,Margarita,Margarita,Margarita,Margarita,Margarita
+400,Girasol,Girasol,Girasol,Girasol,Girasol
+401,Girasol,Girasol,Girasol,Girasol,Girasol
+402,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+403,Rosa,Tulipán,Tulipán,Tulipán,Tulipán
+404,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+405,Diente de león,Diente de león,Girasol,Diente de león,Diente de león
+406,Margarita,Margarita,Margarita,Margarita,Margarita
+407,Girasol,Girasol,Girasol,Girasol,Girasol
+408,Tulipán,Diente de león,Girasol,Girasol,Girasol
+409,Girasol,Girasol,Girasol,Girasol,Girasol
+410,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+411,Tulipán,Tulipán,Rosa,Rosa,Rosa
+412,Margarita,Margarita,Margarita,Margarita,Margarita
+413,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+414,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+415,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+416,Girasol,Girasol,Girasol,Girasol,Girasol
+417,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+418,Girasol,Girasol,Girasol,Girasol,Girasol
+419,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+420,Rosa,Tulipán,Rosa,Rosa,Rosa
+421,Rosa,Tulipán,Rosa,Rosa,Rosa
+422,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+423,Girasol,Girasol,Girasol,Girasol,Girasol
+424,Margarita,Margarita,Margarita,Margarita,Margarita
+425,Margarita,Tulipán,Girasol,Girasol,Girasol
+426,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+427,Girasol,Girasol,Girasol,Girasol,Girasol
+428,Rosa,Rosa,Rosa,Rosa,Rosa
+429,Tulipán,Diente de león,Tulipán,Tulipán,Rosa
+430,Girasol,Girasol,Girasol,Girasol,Girasol
+431,Diente de león,Tulipán,Diente de león,Diente de león,Diente de león
+432,Margarita,Margarita,Margarita,Margarita,Margarita
+433,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+434,Girasol,Girasol,Girasol,Girasol,Girasol
+435,Margarita,Margarita,Margarita,Tulipán,Margarita
+436,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+437,Margarita,Margarita,Margarita,Margarita,Margarita
+438,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+439,Rosa,Rosa,Rosa,Rosa,Rosa
+440,Rosa,Rosa,Rosa,Rosa,Rosa
+441,Tulipán,Tulipán,Tulipán,Rosa,Rosa
+442,Margarita,Diente de león,Diente de león,Diente de león,Diente de león
+443,Rosa,Rosa,Rosa,Rosa,Rosa
+444,Margarita,Margarita,Margarita,Margarita,Margarita
+445,Rosa,Rosa,Rosa,Rosa,Rosa
+446,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+447,Girasol,Girasol,Girasol,Girasol,Girasol
+448,Rosa,Rosa,Rosa,Rosa,Rosa
+449,Girasol,Girasol,Girasol,Girasol,Girasol
+450,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+451,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+452,Margarita,Margarita,Margarita,Margarita,Margarita
+453,Girasol,Tulipán,Tulipán,Tulipán,Tulipán
+454,Girasol,Girasol,Girasol,Girasol,Girasol
+455,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+456,Rosa,Tulipán,Tulipán,Tulipán,Tulipán
+457,Margarita,Margarita,Margarita,Margarita,Margarita
+458,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+459,Margarita,Diente de león,Margarita,Diente de león,Margarita
+460,Rosa,Tulipán,Rosa,Rosa,Rosa
+461,Rosa,Tulipán,Tulipán,Tulipán,Tulipán
+462,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+463,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+464,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+465,Margarita,Margarita,Margarita,Margarita,Margarita
+466,Rosa,Rosa,Rosa,Rosa,Rosa
+467,Diente de león,Diente de león,Diente de león,Diente de león,Margarita
+468,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+469,Rosa,Rosa,Rosa,Rosa,Rosa
+470,Margarita,Margarita,Margarita,Margarita,Margarita
+471,Rosa,Rosa,Rosa,Rosa,Rosa
+472,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+473,Diente de león,Diente de león,Diente de león,Diente de león,Margarita
+474,Tulipán,Rosa,Tulipán,Tulipán,Tulipán
+475,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+476,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+477,Margarita,Margarita,Margarita,Margarita,Margarita
+478,Girasol,Girasol,Girasol,Girasol,Girasol
+479,Margarita,Margarita,Margarita,Margarita,Margarita
+480,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+481,Girasol,Girasol,Girasol,Girasol,Girasol
+482,Girasol,Girasol,Girasol,Girasol,Girasol
+483,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+484,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+485,Girasol,Girasol,Girasol,Girasol,Girasol
+486,Girasol,Girasol,Girasol,Girasol,Girasol
+487,Girasol,Girasol,Girasol,Girasol,Girasol
+488,Margarita,Margarita,Margarita,Margarita,Margarita
+489,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+490,Rosa,Margarita,Rosa,Rosa,Rosa
+491,Girasol,Girasol,Girasol,Girasol,Girasol
+492,Girasol,Girasol,Girasol,Girasol,Girasol
+493,Rosa,Rosa,Tulipán,Rosa,Tulipán
+494,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+495,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+496,Rosa,Rosa,Rosa,Rosa,Rosa
+497,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+498,Girasol,Girasol,Girasol,Girasol,Girasol
+499,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+500,Girasol,Girasol,Girasol,Girasol,Girasol
+501,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+502,Margarita,Tulipán,Margarita,Margarita,Margarita
+503,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+504,Rosa,Rosa,Rosa,Rosa,Rosa
+505,Rosa,Rosa,Rosa,Rosa,Rosa
+506,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+507,Rosa,Tulipán,Rosa,Rosa,Rosa
+508,Margarita,Margarita,Margarita,Margarita,Margarita
+509,Diente de león,Diente de león,Girasol,Girasol,Girasol
+510,Tulipán,Diente de león,Tulipán,Tulipán,Tulipán
+511,Girasol,Girasol,Girasol,Girasol,Girasol
+512,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+513,Margarita,Margarita,Margarita,Girasol,Margarita
+514,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+515,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+516,Rosa,Rosa,Rosa,Rosa,Rosa
+517,Girasol,Girasol,Girasol,Girasol,Girasol
+518,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+519,Rosa,Rosa,Rosa,Rosa,Rosa
+520,Rosa,Tulipán,Tulipán,Tulipán,Rosa
+521,Girasol,Girasol,Girasol,Girasol,Girasol
+522,Rosa,Girasol,Tulipán,Rosa,Rosa
+523,Rosa,Diente de león,Rosa,Rosa,Rosa
+524,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+525,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+526,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+527,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+528,Rosa,Tulipán,Rosa,Rosa,Rosa
+529,Girasol,Girasol,Girasol,Girasol,Girasol
+530,Margarita,Margarita,Margarita,Margarita,Margarita
+531,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+532,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+533,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+534,Margarita,Diente de león,Margarita,Girasol,Margarita
+535,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+536,Rosa,Margarita,Rosa,Rosa,Rosa
+537,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+538,Girasol,Girasol,Girasol,Girasol,Girasol
+539,Rosa,Rosa,Rosa,Rosa,Rosa
+540,Diente de león,Diente de león,Diente de león,Diente de león,Diente de león
+541,Margarita,Margarita,Margarita,Margarita,Margarita
+542,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+543,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+544,Rosa,Tulipán,Rosa,Rosa,Rosa
+545,Margarita,Margarita,Margarita,Margarita,Margarita
+546,Tulipán,Tulipán,Tulipán,Rosa,Rosa
+547,Diente de león,Girasol,Diente de león,Diente de león,Diente de león
+548,Margarita,Margarita,Margarita,Margarita,Margarita
+549,Tulipán,Tulipán,Tulipán,Tulipán,Tulipán
+550,Girasol,Girasol,Girasol,Girasol,Girasol

@@ -1,0 +1,46 @@
+{
+ "total": 3670,
+ "por_clase": {
+  "Diente de león": 898,
+  "Margarita": 633,
+  "Tulipán": 799,
+  "Girasol": 699,
+  "Rosa": 641
+ },
+ "split": {
+  "entrenamiento": 2569,
+  "validacion": 550,
+  "prueba": 551
+ },
+ "split_por_clase": {
+  "entrenamiento": {
+   "Diente de león": 629,
+   "Margarita": 443,
+   "Tulipán": 559,
+   "Girasol": 489,
+   "Rosa": 449
+  },
+  "validacion": {
+   "Diente de león": 134,
+   "Margarita": 95,
+   "Tulipán": 120,
+   "Girasol": 105,
+   "Rosa": 96
+  },
+  "prueba": {
+   "Diente de león": 135,
+   "Margarita": 95,
+   "Tulipán": 120,
+   "Girasol": 105,
+   "Rosa": 96
+  }
+ },
+ "resolucion_original": {
+  "alto_min": 159,
+  "alto_max": 442,
+  "ancho_min": 143,
+  "ancho_max": 1024,
+  "alto_mediana": 240.0,
+  "ancho_mediana": 320.0
+ }
+}
